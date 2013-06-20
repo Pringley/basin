@@ -16,6 +16,10 @@ Or install it yourself as:
 
     $ gem install basin
 
+Basin relies on sqlite3 for storage. On Ubuntu, sqlite3 can be installed using:
+
+    $ sudo apt-get install sqlite3 libsqlite3-dev
+
 ## Usage
 
 TODO: Write usage instructions here
