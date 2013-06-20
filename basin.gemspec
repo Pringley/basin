@@ -8,9 +8,14 @@ Gem::Specification.new do |spec|
   spec.version       = Basin::VERSION
   spec.authors       = ["Ben Pringle"]
   spec.email         = ["ben.pringle@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+
+  spec.description   = <<-EOF
+    Basin provides a local web interface to track actions, projects,
+    delegations, and ideas.
+  EOF
+
+  spec.summary       = "Store your thoughts in a silvery basin."
+  spec.homepage      = "https://github.com/Pringley/basin"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

@@ -1,6 +1,6 @@
 # Basin
 
-TODO: Write a gem description
+*Store your thoughts in a silvery basin.*
 
 ## Installation
 
